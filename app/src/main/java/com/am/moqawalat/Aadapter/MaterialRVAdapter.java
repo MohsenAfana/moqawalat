@@ -59,6 +59,7 @@ public class MaterialRVAdapter extends RecyclerView.Adapter<MaterialRVAdapter.Ma
                     }
                 }
             });
+
         }
 //        holder.tvName.setText(mData.get(position).getAdvName());
 //
